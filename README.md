@@ -3,22 +3,22 @@
 ## Overview
 Convince investors that a bike-sharing program in Des Moines is a solid business proposal
 ## Results 
-<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_1.png" width="600" height='400'>
+<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_1.png" width="500" height='300'>
 Most rides are around 10 minutes\
-![Refactored 2018.png](https://github.com/chris820629/bikesharing/blob/main/Images/Image_2.png)\
+<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_2.png" width="500" height='300'>
 Male are the most frequent users\
-![Refactored 2018.png](https://github.com/chris820629/bikesharing/blob/main/Images/Image_3.png)\
+<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_3.png" width="500" height='300'>
 Most common hours are 7/8am and 5/6pm\
-![Refactored 2018.png](https://github.com/chris820629/bikesharing/blob/main/Images/Image_4.png)\
+<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_4.png" width="500" height='300'>
 Male is still the dominent user\
-![Refactored 2018.png](https://github.com/chris820629/bikesharing/blob/main/Images/Image_5.png)\
+<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_5.png" width="500" height='300'>
 Subscriber is the main revenue contributor\
-![Refactored 2018.png](https://github.com/chris820629/bikesharing/blob/main/Images/Image_6.png)\
+<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_6.png" width="500" height='300'>
 Total trip count is 2.3million\
-![Refactored 2018.png](https://github.com/chris820629/bikesharing/blob/main/Images/Image_7.png)\
+<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_7.png" width="500" height='300'>
 Subscriber is the dominent customer base\
 ## Summary
 The company should focus on retaining male, subscriber users and supply more bikes during weekday peak hours
-![Refactored 2018.png](https://github.com/chris820629/bikesharing/blob/main/Images/Image_8.png)
-![Refactored 2018.png](https://github.com/chris820629/bikesharing/blob/main/Images/Image_9.png)
+<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_8.png" width="500" height='300'>
+<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_9.png" width="500" height='300'>
 
