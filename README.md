@@ -3,7 +3,7 @@
 ## Overview
 Convince investors that a bike-sharing program in Des Moines is a solid business proposal
 ## Results 
-![Refactored 2018.png](https://github.com/chris820629/bikesharing/blob/main/Images/Image_1.png)\
+<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_1.png" width="600" height='400'>
 Most rides are around 10 minutes\
 ![Refactored 2018.png](https://github.com/chris820629/bikesharing/blob/main/Images/Image_2.png)\
 Male are the most frequent users\
