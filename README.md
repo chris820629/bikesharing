@@ -18,7 +18,7 @@ Total trip count is 2.3million
 Subscriber is the dominent customer base  
 <img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_7.png" width="200" height='200'>  
 
-## Summary
+## Summary and Next Step
 The company should focus on retaining male subscribing users and supply more bikes during weekday peak hours ahead of time. Further customer churn insight analysis and machine learning model will need to be carried out prevent our revenue loss. Map heatmap shows most of the users commute between midtown and the west bank of Manhattan. We need start focusing on other customers with promotions for further customer aquisition. Due to low usage in off-peak hours, promotions can be carried out during those hours.  
 <img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_8.png" width="800" height='600'>
 <img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_9.png" width="800" height='600'>
