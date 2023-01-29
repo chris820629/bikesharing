@@ -19,6 +19,6 @@ Total trip count is 2.3million\
 Subscriber is the dominent customer base\
 ## Summary
 The company should focus on retaining male, subscriber users and supply more bikes during weekday peak hours
-<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_8.png" width="600" height='400'>
-<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_9.png" width="600" height='400'>
+<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_8.png" width="800" height='600'>
+<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_9.png" width="800" height='600'>
 
