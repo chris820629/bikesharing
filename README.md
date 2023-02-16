@@ -1,7 +1,7 @@
 # Bike Sharing
 
 This project focused on the application of Python Pandas and Tableau, and how we leveraged their useful functions and GUIs for performing in-depth data analytics and visualizations.
-[link to dashboard] https://public.tableau.com/app/profile/chris.horng/viz/Chris-city-bike-analysis/Story1?publish=yes
+[link-to-dashboard] https://public.tableau.com/app/profile/chris.horng/viz/Chris-city-bike-analysis/Story1?publish=yes
 
 ## Table of Contents
 
