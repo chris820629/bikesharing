@@ -1,20 +1,7 @@
-# bikesharing
-[link to dashboard]https://public.tableau.com/app/profile/chris.horng/viz/Chris-city-bike-analysis/Story1?publish=yes
-## Overview
-Convince investors that a bike-sharing program in Des Moines is a solid business proposal
-## Results 
-
-
-## Summary and Next Step
-The company should focus on retaining male subscribing users and supply more bikes during weekday peak hours ahead of time. Further customer churn insight analysis and machine learning model will need to be carried out prevent our revenue loss. Map heatmap shows most of the users commute between midtown and the west bank of Manhattan. We need start focusing on other customers with promotions for further customer aquisition. Due to low usage in off-peak hours, promotions can be carried out during those hours.  
-<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_8.png" width="800" height='600'>
-<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_9.png" width="800" height='600'>
-
-
-
 # Bike Sharing
 
 This project focused on the application of Python Pandas and Tableau, and how we leveraged their useful functions and GUIs for performing in-depth data analytics and visualizations.
+[link to dashboard] https://public.tableau.com/app/profile/chris.horng/viz/Chris-city-bike-analysis/Story1?publish=yes
 
 ## Table of Contents
 
