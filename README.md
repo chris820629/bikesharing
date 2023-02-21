@@ -1,4 +1,4 @@
-# Bike Sharing
+# Bike Sharing Customer Insight Analysis
 
 This project focused on the application of Python Pandas and Tableau, and how we leveraged their useful functions and GUIs for performing in-depth data analytics and visualizations.
 [link-to-dashboard](https://public.tableau.com/views/Chris-city-bike-analysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
