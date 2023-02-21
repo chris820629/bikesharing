@@ -38,28 +38,25 @@ Below is the outline of our deliverables and a written report for presenting our
 We first reformatted the original csv data by using Python Pandas and then used Tableau to perform in-depth analysis and visualizations. Although I retained all the initial field data when saving the modified DataFrame to a csv file, there were several unique approaches that I used when accomplishing the required visualizations as discussed and highlighted below. Some of the improvement ideas for future analysis were also analyzed and embodied in the Tableau visualization dashboard (<a href="https://public.tableau.com/app/profile/s.tandjoeng/viz/bikesharing_visualizations_16701338840620/NYCCitiBikeSharingAnalysis" target="_blank" title="Link to NYC Citi Bike Analysis">Tableau Bike Sharing Visualizations</a>).
 
 ### Discovery 1
-
-what is this
-
-```
-code here
-```
+Most rides are around 10 minutes, showing users may be using them as secondary transportation from office to metro stations. Further investigation could focus on the customer id on their start and end destionations for customer behavior study.  
+<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_1.png" width="500" height='300'>  
 
 ### Discovery 2
-
-what is this
-
-```
-code here
-```
+Most rides are around 10 minutes, showing users may be using them as secondary transportation from office to metro stations. Further investigation could focus on the customer id on their start and end destionations for customer behavior study.  
+<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_1.png" width="500" height='300'>  
 
 ### Discovery 3
+Male are the most frequent users, being almost 4x of the female users.  
+<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_2.png" width="500" height='300'> 
 
-what is this
+### Discovery 4
+Most common hours are 7/8am and 5/6pm on weekdays. Weekend usage is more evenly distributed throughout 10am to 5pm. Thurs and Fri occasionally have customers between 1 and 5pm as well.  
+<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_3.png" width="500" height='300'>  
 
-```
-code here
-```
+### Discovery 5
+Subscriber is the dominent customer base  
+<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_7.png" width="200" height='200'> 
+
 
 
 ## References
@@ -67,17 +64,7 @@ code here
 [Pandas User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html#user-guide)  
 [Tableau Public](https://public.tableau.com/app/profile/chris.horng/viz/Chris-city-bike-analysis/Story1?publish=yes)   
 
-Most rides are around 10 minutes, showing users may be using them as secondary transportation from office to metro stations. Further investigation could focus on the customer id on their start and end destionations for customer behavior study.  
-<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_1.png" width="500" height='300'>  
-Male are the most frequent users, being almost 4x of the female users.  
-<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_2.png" width="500" height='300'>  
-Most common hours are 7/8am and 5/6pm on weekdays. Weekend usage is more evenly distributed throughout 10am to 5pm. Thurs and Fri occasionally have customers between 1 and 5pm as well.  
-<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_3.png" width="500" height='300'>  
-Male is still the dominent user but both female and male have the same usage timeframe preference.  
-<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_4.png" width="500" height='300'>  
-Male subscriber is the main revenue contributor.  
-<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_5.png" width="500" height='300'>  
-Total trip count is 2.3million  
-<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_6.png" width="300" height='200'>  
-Subscriber is the dominent customer base  
-<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_7.png" width="200" height='200'>  
+
+
+
+ 
