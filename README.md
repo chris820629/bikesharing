@@ -47,7 +47,7 @@ Next step: The company shall optimize the bike availability in mid Mahattan espe
 <img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_10.png" width="500" height='300'>  
 
 ### Discovery 2
-Most common hours are 7/8am and 5/6pm on weekdays. Weekend usage is more evenly distributed throughout 10am to 5pm. Thurs and Fri occasionally have customers between 1 and 5pm as well. It also shows that males are the majority of customer.\ 
+Most common hours are 7/8am and 5/6pm on weekdays. Weekend usage is more evenly distributed throughout 10am to 5pm. Thurs and Fri occasionally have customers between 1 and 5pm as well. It also shows that males are the majority of customer.\
 Next step: since weekend all day and weekday day time are the least usage time, we could add promotion to incentivice customers or conduct a survery to understand customers' bike usage ghabit.                                                                                  
 <img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_4.png" width="500" height='300'>  
 
