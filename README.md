@@ -18,7 +18,7 @@ This project focused on the application of Python Pandas and Tableau, and how we
 
 ## Overview and Objective of Project
 
-This project and Module 15 assignment focused on cultivating knowledge and skills of data analytics and visualizations that helped to further understand the concepts of crafting convincing analysis report and bike sharing business proposal. During the completion of this project we mainly leveraged the powerful features offered by Python Pandas and [Tableau Public](https://www.tableau.com/products/public), a free platform that lets us explore, create, and publicly share data visualizations online.
+This project focused on cultivating knowledge and skills of data analytics and visualizations that helped to further understand the concepts of crafting convincing analysis report and bike sharing business proposal. During the completion of this project we mainly leveraged the powerful features offered by Python Pandas and [Tableau Public](https://www.tableau.com/products/public), a free platform that lets us explore, create, and publicly share data visualizations online.
 
 ### Resources
 
